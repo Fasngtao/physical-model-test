@@ -1,1 +1,1 @@
-4.25开始正式冻结，到5月13日只开了master tubes，这个基础模型用于计算70天的，为了后续做比较
+5.14-5.21，开启了master tubes和enhancing tubes，共8天时间，计算的才初始状态为只开master tubes的19天计算结果

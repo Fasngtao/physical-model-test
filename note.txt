@@ -1,1 +1,1 @@
-5.14-5.21，开启了master tubes和enhancing tubes，共8天时间，计算的才初始状态为只开master tubes的19天计算结果
+5.21-5.24，开启了master tubes、enhancing tubes和limiting tube，共4天时间，计算的才初始状态为只开5.21的计算结果，限位管的温度为14
